@@ -4,4 +4,4 @@ Section EF-2L
 Name				Student Number
 
 Fermin Roberto G. Lapitan	xxxx-40281
-Jerico R. Agustin			2015-65860
+Jerico R. Agustin		2015-65860
